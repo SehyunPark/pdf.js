@@ -51,7 +51,8 @@ Before downloading PDF.js please take a moment to understand the different layer
   <div class="col-md-6">
     <h3>Source</h3>
     To get a local copy of the current code, clone it using git:
-    <pre><code>$ git clone git://github.com/mozilla/pdf.js.git
+
+  <pre><code>$ git clone git://github.com/mozilla/pdf.js.git
 $ cd pdf.js
 </code></pre>
   </div>
@@ -117,4 +118,4 @@ With the prebuilt or source version open `web/viewer.html` in a browser and the 
 
 ## More Information
 
-For a further walkthrough of a minimal viewer see the hello world example. More documentation can be found in our [wiki](https://github.com/mozilla/pdf.js/wiki) too.
+For a further walkthrough of a minimal viewer, see the hello world example. More documentation can be found in our [wiki](https://github.com/mozilla/pdf.js/wiki) too.
